@@ -1,6 +1,6 @@
 # Read Me
 
-1.  Install powershell >= v7.0.3 from <a href="https://github.com/Powershell/Powershell/releases/latest">Github</a> based on your operating system
+1.  Install powershell >= v7.0.3 available on <a href="https://github.com/Powershell/Powershell/releases/latest">Github</a>
     -   for windows search "<i><b>-win-x64.msi</b></i>"
     -   it would be like "<b>Powershell-7.0.3-win-x64.msi</b>"
 
