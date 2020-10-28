@@ -11,5 +11,5 @@
         -   Install anaconda-navigator, jupyterlab and nb_conda packages in the base environment
     2.  After miniconda installation, againg click on install.ps1 to
         -   Create "py36" virtual environment, and
-        -   Installs pandas and other excel packages such as xlrd | xlwt | xlsxwriter | openpyxl | xlwings, and
-        -   Installs xlwings addin
+        -   Install pandas and other excel packages such as xlrd | xlwt | xlsxwriter | openpyxl | xlwings, and
+        -   Install xlwings addin
