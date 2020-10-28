@@ -6,8 +6,8 @@
 
 <li>Run install.ps1 using powershell >= v7.0.3
     <ul>
-        <li>click once on install.ps1 to install Miniconda</li>
-        <li>click twice on install.ps1 to install Miniconda and create py36 virtual environment</li>
+        <li>click once on install.ps1 to install Miniconda and will updated to latest conda and installs anaconda-navigator, jupyterlab and nb_conda packages in the base environment</li>
+        <li>click twice on install.ps1 to install Miniconda and creates py36 virtual environment along with pandas and excel packages such as xlrd, xlwt, xlsxwriter, openpyxl, xlwings and install xlwings addin</li>
     </ul>
 </li>
 </ol>
