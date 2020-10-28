@@ -1,4 +1,4 @@
-# Read Me
+# Usage
 
 1.  Install powershell >= v7.0.3 available on <a href="https://github.com/Powershell/Powershell/releases/latest">Github</a>
     -   for windows search "<i><b>-win-x64.msi</b></i>"
