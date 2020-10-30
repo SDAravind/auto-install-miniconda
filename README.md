@@ -4,7 +4,8 @@
     *   for windows search "<i><b>-win-x64.msi</b></i>"
     *   it would be like "<b>Powershell-7.0.3-win-x64.msi</b>"
 
-2.  Run install.ps1 using powershell >= v7.0.3
+2.  Before you proceed further, uninstall any previous installations of Anaconda/Miniconda before your proceed
+3.  Run install.ps1 using powershell >= v7.0.3
     1.  Click once on install.ps1 to
         *   Install Miniconda, and
         *   Update to latest conda, and
