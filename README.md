@@ -9,6 +9,7 @@
    *  Right click the Start Button, choose Powershell (admin)
    *  Paste this into Powershell and hit Enter  
          `set-executionpolicy remotesigned`
+      * Choose A - Yes to All
    *  Close Powershell, then check if it is functioning correctly
    *  If not, open Powershell as Admin again and paste this command:  
          `Set-ExecutionPolicy unrestricted`
