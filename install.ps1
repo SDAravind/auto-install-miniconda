@@ -14,3 +14,4 @@ try {
 catch {
     Write-Output "Errors occurred during installation!"
 }
+pause
