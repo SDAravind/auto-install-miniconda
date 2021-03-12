@@ -23,6 +23,6 @@
         *   Update to latest conda, and
         *   Install anaconda-navigator, jupyterlab and nb_conda packages in the base environment
     2.  After miniconda installation, clicking again on install.ps1 would
-        *   Create "py36" virtual environment, and
+        *   Create "py38" virtual environment, and
         *   Install pandas, scikit-learn, pyspark, seaborn and other excel packages such as xlrd | xlwt | xlsxwriter | openpyxl | xlwings, and
         *   Install xlwings add-in for MS excel
